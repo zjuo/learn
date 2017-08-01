@@ -1,3 +1,3 @@
 # learn
-just learn git
+just learn git；
 no more messages
